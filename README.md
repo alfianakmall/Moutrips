@@ -38,7 +38,7 @@ npm run dev
 
 ## Acknowledgements
 
-- The design come from https://www.youtube.com/watch?v=aoLvBmI1OPg&t=8366s
+- The design come from  [Isratech](https://www.youtube.com/watch?v=aoLvBmI1OPg&t=8366s).
 - Special thanks to the open-source community for providing helpful resources and tutorials on web development.
 
 ## Contact
