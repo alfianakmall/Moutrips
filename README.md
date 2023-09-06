@@ -22,14 +22,19 @@ git clone https://github.com/alfianakmall/Moutrips.git
 
 2. Open the project in your preferred code editor.
 
-3. On The Folder Type on terminal.
+3. Type this on terminal
+```bash
+npm install
+```
+4. On The Folder Type on terminal.
 
 ```bash
 npm run dev
 ```
-4. Open the Website On the browser
 
-5. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+5. Follow the link to open the Website
+
+6. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
 ## Acknowledgements
 
